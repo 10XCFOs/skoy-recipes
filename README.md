@@ -2,7 +2,7 @@
 
 Batch-cooking recipes optimized for flavor, storage, and reheating. Every recipe here has been cooked, revised, and eaten for a week straight.
 
-**Live site:** [guyskoy.github.io/skoy-recipes](https://guyskoy.github.io/skoy-recipes/)
+**Live site:** [10XCFOs.github.io/skoy-recipes](https://10XCFOs.github.io/skoy-recipes/)
 
 ## Recipes
 
