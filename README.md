@@ -10,6 +10,7 @@ Batch-cooking recipes optimized for flavor, storage, and reheating. Every recipe
 - **Oven-Roasted Pulled Pork** — Two 8 lb shoulders, low and slow at 275°F. Carolina-style with soy, mustard, and full-strength apple cider vinegar. ~10 lbs yield, 20+ servings.
 - **Electrolyte-Optimized Corned Beef Brisket** — Precision equilibrium cure with KCl-enhanced potassium. Split into crispy flat slices (bacon substitute) and pressed point hash for morning meal prep. 5–10 day cure.
 - **Baby Back Ribs with Skoy Sauce Glaze** — Three racks foil-wrapped and slow-cooked hands-off at 275°F, then double-glazed with Skoy Sauce at 325°F for a caramelized lacquer finish. ~3 hr 15 min.
+- **Chicken to Curry Flavor** — 6 lbs of bone-in skin-on thighs, dry-brined and roasted at 425°F with a layered curry-powder + garam-masala-component rub. Tajín finishes half the batch for bright citrus variance.
 
 ### Sides
 - **Guy's Loaded Mash** — Instant Pot russet mash with butter, sour cream, ranch packet, and melted sharp cheddar on top. Loaded-baked-potato flavor in ~30 minutes. Batches well, reheats cleanly over 4–5 days.
@@ -26,6 +27,7 @@ skoy-recipes/
 │   ├── pulled-pork.html      ← Oven pulled pork
 │   ├── corned-beef.html      ← Electrolyte-optimized corned beef brisket
 │   ├── baby-back-ribs.html   ← Baby back ribs with Skoy Sauce glaze
+│   ├── curry-chicken.html    ← Chicken to Curry Flavor (dry-brined thighs)
 │   ├── loaded-mash.html      ← Guy's Loaded Mash (Instant Pot)
 │   └── skoy-sauce.html       ← Carolina barbeque sauce
 ├── assets/
